@@ -8,6 +8,6 @@
   ],
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/95f863f555d65db71653b7e379eafa3104aafa79/Actions/.Modules/settings.schema.json",
   "appFolders": [],
-  "repoVersion": "2.1",
+  "repoVersion": "3.0",
   "versioningStrategy": 16
 }
